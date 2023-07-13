@@ -1,11 +1,12 @@
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+    <a href="https://app.daily.dev/Mephex"><img src="https://api.daily.dev/devcards/9164d64efb344f7ba85a607e1dfcfd97.png?r=7af" width="400" alt="Santiago Arias's Dev Card"/></a>
 </div>  
-  
+
 
 ### <div align="center">I'm Santiago, metalhead, rocker ... whatever, who usually throws some code</div>  
-![Profile views](https://gpvc.arturio.dev/soy4rias)  ![codewars](https://www.codewars.com/users/SOY4RIAS/badges/micro)
+![codewars](https://www.codewars.com/users/SOY4RIAS/badges/micro)
 
   
 
